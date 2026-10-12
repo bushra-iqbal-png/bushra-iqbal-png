@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Bushra Iqbal 👋.
+I build web projects and am developing my Python, SQL and API-integration skills, with a longer-term focus on AI-assisted business applications.
 
-<!--
-**bushra-iqbal-png/bushra-iqbal-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Featured Projects
 
-Here are some ideas to get you started:
+🏡 AL JANNAT Farmhouse Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A farmhouse website project designed to present facilities, packages, and visitor information through a visual web interface.
+
+Technologies: HTML, CSS, JavaScript
+https://bushra-iqbal-png.github.io/farmhouse-work/
+
+
+🎁 Prestige Gift Shop — E-Commerce Website Project
+
+A multi-page gift shop website project featuring gift categories such as birthday, anniversary, and wedding gifts, along with informational pages.
+
+Technologies: HTML, CSS, JavaScript
+https://bushra-iqbal-png.github.io/COMPLETE-E-PROJECT/
+
+
+🎯 My Goals
+
+Build responsive and accessible websites.
+
+Strengthen my JavaScript and programming fundamentals.
+
+Improve my understanding of databases and back-end development.
+
+Create well-documented projects that demonstrate my practical skills.
+
+Continue growing through practice, feedback, and collaboration.
+
+📫 Connect With Me
+
+GitHub: bushra-iqbal-png
+
+Thank you for visiting my profile! Feel free to explore my repositories and follow my learning journey. ✨
